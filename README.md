@@ -1,12 +1,12 @@
 ## Hello! I am Ramon!
-<p> I am in career transition. I study programming since 2019 focusing on front end web development. Always looking to learn!</p>
+<p> I'm in career transition. I study programming since 2019 focusing on front end web development. Always looking to learn!</p>
 
 
  <div>
 <div align="auto">
   <a href="https://github.com/ramondev8">
-  <img align="center" height="130em" src="https://github-readme-stats.vercel.app/api?username=fhuffner91&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img align="center" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhuffner91&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=fhuffner91&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhuffner91&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="left" alt="f-Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
