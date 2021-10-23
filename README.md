@@ -1,5 +1,5 @@
 ## Hello! I am Ramon!
-<p> I'm in career transition. I study programming since 2019 focusing on front end web development. Always looking to learn!</p>
+<p> I'm in career transition. I study programming since 2019 focusing on front end development. Always looking to learn!</p>
 
 
  <div>
